@@ -39,4 +39,3 @@ Aquí están las tecnologías con las que trabajo principalmente:
 
 ---
 
-*Puedes personalizar los enlaces e íconos en [devicon](https://devicon.dev/) o [Awesome README](https://github.com/matiassingers/awesome-readme).*
