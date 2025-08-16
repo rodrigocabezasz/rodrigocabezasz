@@ -2,7 +2,7 @@
 
 ### *Ingeniero en Control de Gestión | Data Scientist | Especialista en BI y Automatización*
 
-<a href="https://www.linkedin.com/in/rodrigo-cabezas-zu%C3%B1iga-698a8532" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/rodrigo-cabezas-zu%C3%B1iga-698a8532" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 <a href="https://rodrigocabezasz.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Portafolio_Web-4E8A02?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portafolio Web"></a>
 
 ---
@@ -17,7 +17,7 @@ Actualmente, mi foco está en:
 - 🧠 **Ciencia de Datos:** Aplicación de modelos de **Machine Learning (Scikit-learn)** para análisis predictivo y extracción de insights a partir de grandes volúmenes de datos.
 - 📊 **Control de Gestión Estratégico:** Liderazgo en planificación presupuestaria, análisis de desviaciones y optimización de procesos de negocio.
 
-📫 Puedes contactarme en: **rorocabezas@gmail.com**
+📫 Puedes contactarme en: **rorocabezas@gmail.com**  , **+569 9020 2757**
 
 ---
 
@@ -43,7 +43,7 @@ Estas son algunas de las tecnologías con las que trabajo diariamente:
 **Desarrollo Backend, Frontend y BI:**
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25183106/117967184-a3c32b00-b32c-11eb-8009-2188f83734e3.png" alt="Streamlit" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="[https://images.app.goo.gl/VUUn8VCeNg3dJHaR6](https://github.com/streamlit/streamlit](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)" alt="Streamlit" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
